@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiiflaccio02unkngoog_0014.png"; bbox 0 0 2750 4756; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 145 1699 1152 2110">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 137 1699 1152 2110">
+     <span class='ocr_line' id='line_1_1' title="bbox 265 1699 1148 1865; baseline -0.018 -67"><span class='ocrx_word' id='word_1_1' title='bbox 265 1722 315 1826; x_wconf 77' lang='lat' dir='ltr'>Q·</span> <span class='ocrx_word' id='word_1_2' title='bbox 384 1716 705 1837; x_wconf 71' lang='lat' dir='ltr'>nonmu¹</span> <span class='ocrx_word' id='word_1_3' title='bbox 745 1715 1020 1865; x_wconf 14' lang='lat' dir='ltr'>‘mccl</span> <span class='ocrx_word' id='word_1_4' title='bbox 1094 1699 1148 1782; x_wconf 85' lang='grc'>’,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 145 1891 1152 2110; baseline -0.004 -36.032"><span class='ocrx_word' id='word_1_5' title='bbox 145 1891 1152 2110; x_wconf 69' lang='lat' dir='ltr'>CARMINVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 420 2245 1168 2338">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 316 2245 1168 2338">
+     <span class='ocr_line' id='line_1_3' title="bbox 420 2245 1168 2338; baseline 0.066 -35.164"><span class='ocrx_word' id='word_1_6' title='bbox 420 2245 580 2310; x_wconf 73' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_7' title='bbox 635 2247 874 2328; x_wconf 71' lang='lat' dir='ltr'>TERTIVS·</span> <span class='ocrx_word' id='word_1_8' title='bbox 1009 2303 1020 2338; x_wconf 94' lang='lat'>·.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1161 2247 1168 2261; x_wconf 78' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1380 4756">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1380 4756">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1380 4756; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1380 4756; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
